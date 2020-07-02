@@ -1,0 +1,4 @@
+.env
+__paycache__
+*.pyc
+db.sqlite3
